@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Valentyn Arkho</h1>
-<h3 align="center">A passionate Senior Full Stack developer located in United States</h3>
+<h3 align="center">I'm Senior Full Stack developer (technically perform the duties of a technical lead).</h3>
+<h4 align="center">Located & work in the United States</h4>
 
-- 🔭 I’m currently working on [Vrbo project. Vrbo operates an online marketplace for vacation rentals. It was originally known as Vacation Rentals by Owner or VRBO. It is headquartered in Austin, Texas, and is owned by Expedia Group.](www.vrbo.com)
+- 🔭 I’m currently working on [Vrbo project](www.vrbo.com). Vrbo operates an online marketplace for vacation rentals. It was originally known as Vacation Rentals by Owner or VRBO. It is headquartered in Austin, Texas, and is owned by Expedia Group.
 
 - 📫 How to reach me **archo.valentyn@gmail.com**
 
