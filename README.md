@@ -4,7 +4,7 @@
 > [!NOTE]
 > On the current project I perform the duties of a technical lead.
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/69/20/fc/6920fc266ea0a8bfbb02561dfdd18f1c.png">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/69/20/fc/6920fc266ea0a8bfbb02561dfdd18f1c.png">
 <h3 align="left">Additional Information:</h3>
 
 - 🔭 Current work is related to the Vrbo ([About](https://www.vrbo.com/about/)). Vrbo operates an online marketplace for vacation rentals. It was originally known as Vacation Rentals by Owner or VRBO. It is headquartered in Austin, Texas, and is owned by Expedia Group.
