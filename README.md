@@ -1,4 +1,4 @@
-<h1 align="left">🙋 I'm Valentyn Arkho</h1>
+<h1 align="left">🙋‍♂️ I'm Valentyn Arkho</h1>
 <h3 align="left">Current Position: Senior Full Stack developer.</h3>
 
 > [!NOTE]
