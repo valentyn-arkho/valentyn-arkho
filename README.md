@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentyn Arkho</h1>
-<h3 align="center">Current Position: Senior Full Stack developer (currently perform the duties of a technical lead in my team).</h3>
-
+<h3 align="left">Current Position: Senior Full Stack developer (currently perform the duties of a technical lead in my team).</h3>
 <h4 align="left">Located & work in the United States</h4>
 
 > [!NOTE]
