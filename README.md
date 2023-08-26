@@ -3,9 +3,10 @@
 
 <h4 align="left">Located & work in the United States</h4>
 
-[!NOTE]
-- 🔭 I’m currently working on [Vrbo project](www.vrbo.com). Vrbo operates an online marketplace for vacation rentals. It was originally known as Vacation Rentals by Owner or VRBO. It is headquartered in Austin, Texas, and is owned by Expedia Group.
-- 📫 How to reach me **archo.valentyn@gmail.com**
+> [!NOTE]
+> 🔭 I’m currently working on [Vrbo project](www.vrbo.com). Vrbo operates an online marketplace for vacation rentals. It was originally known as Vacation Rentals by Owner or VRBO. It is headquartered in Austin, Texas, and is owned by Expedia Group.
+
+📫 How to reach me **archo.valentyn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
