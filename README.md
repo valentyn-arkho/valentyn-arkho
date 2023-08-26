@@ -1,9 +1,9 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="left">🙋‍♂️ I'm Valentyn Arkho</h1>
-<h3 align="left">Current Position: Senior Full Stack developer.</h3>
+<h3 align="left">Current Position: Senior Full Stack Developer</h3>
 
 > [!NOTE]
-> On the current project I perform the duties of a technical lead.
+> On the current project I perform the duties of a **Technical Lead**.
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/69/20/fc/6920fc266ea0a8bfbb02561dfdd18f1c.png">
 <h3 align="left">Additional Information:</h3>
