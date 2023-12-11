@@ -3,8 +3,6 @@
 
 I am a motivated and versatile person, always eager to take on new challenges. On the current project I perform the duties of a Technical Lead. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and show great results 📈.
 
-Live & work in the United States 🇺🇸.
-
 <h3 align="left">Professional Portfolio</h3>
 
 🌐 Website URI - [www.archo.pro](https://www.archo.pro/).
@@ -18,7 +16,7 @@ Live & work in the United States 🇺🇸.
 <h3 align="left">Additional Information:</h3>
 
 - 🔭 Current work is related to the Vrbo ([About](https://www.vrbo.com/about/)). Vrbo operates an online marketplace for vacation rentals. It was originally known as Vacation Rentals by Owner or VRBO. It is headquartered in Austin, Texas, and is owned by Expedia Group.
-- 📍 Live & work in the United States.
+- 📍 Live & work in the United States 🇺🇸.
 - 📫 How to reach me out: **archo.valentyn@gmail.com**.
 
 <h4 align="left">Connect with me:</h4>
