@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
-<h1 align="left">🙋🏻‍♂️ I'm Valentyn Archo</h1>
+<h1 align="left">🙋🏻‍♂️ I'm Valentyn Arkho</h1>
 
-I am a motivated and versatile person, always eager to take on new challenges. As a Senior Software Engineer at Expedia Group, I am passionate about creating innovative and impactful solutions for the online travel industry. I work on the Vrbo platform, which connects millions of travelers with vacation rentals around the world. I'm shouldering the responsibilities of a Technical Lead at my work. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and show great results 📈.
+I'm a motivated and proficient Software Engineer, Ipossess extensive knowledge in both object-oriented and functional languages of programming. Currently l'm working as the Senior Software Engineer (vendor) in the Expedia Group (On-Site) through SoftServe INC in Austin, Texas. Ipassionately strive to transform the online travel industry by offering innovative and impactful tech solutions through the Vrbo platform. This platform connects millions across the globe with exquisite vacation rentals 📈.
 
 <h3 align="left">Professional Portfolio</h3>
 
