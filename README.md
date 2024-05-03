@@ -17,7 +17,7 @@ I'm a motivated and proficient Software Engineer, Ipossess extensive knowledge i
 
 - 🔭 Current work is related to the Vrbo ([About](https://www.vrbo.com/about/)). Vrbo operates an online marketplace for vacation rentals. It was originally known as Vacation Rentals by Owner or VRBO. It is headquartered in Austin, Texas, and is owned by Expedia Group.
 - 📍 Live & work in the United States 🇺🇸.
-- 📫 How to reach me out: **archo.valentyn@gmail.com**.
+- 📫 How to reach me out: **valentynarkho@gmail.com**.
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
