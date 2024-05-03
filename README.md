@@ -5,7 +5,7 @@ I'm a motivated and proficient Software Engineer, Ipossess extensive knowledge i
 
 <h3 align="left">Professional Portfolio</h3>
 
-🌐 Website URI - [www.archo.pro](https://www.archo.pro/).
+🌐 Website URI - [https://www.archo.pro/](https://valentynarkho.pro/).
 
 <h3 align="left">Current Position: Senior Full Stack Developer</h3>
 
@@ -22,7 +22,7 @@ I'm a motivated and proficient Software Engineer, Ipossess extensive knowledge i
 <h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/valentyn-arkho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentyn-arkho" height="30" width="40" /></a>
-<a href="https://www.facebook.com/valentyn.archo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="valentyn.arkho" height="30" width="40" /></a>
+<a href="https://www.facebook.com/valentyn.arkho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="valentyn.arkho" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
