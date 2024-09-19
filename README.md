@@ -1,13 +1,13 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="left">🙋🏻‍♂️ I'm Valentyn Arkho</h1>
 
-I'm a motivated and proficient Software Engineer, Ipossess extensive knowledge in both object-oriented and functional languages of programming. Currently l'm working as the Senior Software Engineer (vendor) in the Expedia Group (On-Site) through SoftServe INC in Austin, Texas. Ipassionately strive to transform the online travel industry by offering innovative and impactful tech solutions through the Vrbo platform. This platform connects millions across the globe with exquisite vacation rentals 📈.
+I'm a motivated and proficient Software Engineer, I possess extensive knowledge in both object-oriented and functional languages of programming. Currently l'm working as the Software Development Engineer III in the Expedia Group in Austin, Texas. I passionately strive to transform the online travel industry by offering innovative and impactful tech solutions through the Vrbo platform. This platform connects millions across the globe with exquisite vacation rentals 📈.
 
 <h3 align="left">Professional Portfolio</h3>
 
 🌐 Website URI - [www.valentynarkho.pro](https://valentynarkho.pro/).
 
-<h3 align="left">Current Position: Senior Full Stack Developer</h3>
+<h3 align="left">Current Position: Software Developer Engineer III</h3>
 
 > [!NOTE]
 > On the current project I perform the duties of a **Technical Lead**.
