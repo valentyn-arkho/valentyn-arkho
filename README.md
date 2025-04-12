@@ -5,7 +5,7 @@ I'm a motivated and proficient Software Engineer, I possess extensive knowledge 
 
 <h3 align="left">Professional Portfolio</h3>
 
-🌐 Website URI - [www.valentynarkho.pro](https://valentynarkho.pro/).
+🌐 Website URI - [www.valentynarkho.site](https://valentynarkho.site/).
 
 <h3 align="left">Current Position: Software Developer Engineer III</h3>
 
