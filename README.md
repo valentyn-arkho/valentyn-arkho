@@ -5,15 +5,20 @@ I am a Senior Software Engineer specializing in distributed systems architecture
 
 My work focuses on designing and implementing software systems that improve coordination, reliability, and productivity in modern engineering environments. I have experience building and modernizing high-traffic digital platforms, enterprise-scale web applications, and real-time multi-user systems.
 
-I am also the creator of **StoryPoker**, a live SaaS collaboration platform built to support agile estimation workflows for distributed software engineering teams.
+I am also the creator of **StoryPoker**, a live SaaS collaboration platform designed to support agile estimation workflows for distributed software engineering teams.
+
+**Portfolio:** [valentynarkho.site](https://valentynarkho.site/)
 
 ---
 
 ## Featured Project
 
 ### StoryPoker — Real-Time Agile Estimation Platform
+
 **Live platform:** [storypoker.online](https://storypoker.online/)  
-**Portfolio:** [valentynarkho.site](https://valentynarkho.site/)  
+**Technical documentation repository:** [storypoker-docs](https://github.com/valentyn-arkho/storypoker-docs)
+
+Public documentation for the StoryPoker platform, including system architecture, frontend and backend design, real-time collaboration workflows, deployment overview, and selected implementation materials.
 
 StoryPoker is a production-oriented SaaS collaboration system designed to help distributed software teams conduct synchronized estimation and planning sessions.
 
@@ -22,14 +27,14 @@ StoryPoker is a production-oriented SaaS collaboration system designed to help d
 - GraphQL API and WebSocket-based real-time communication
 - Node.js backend collaboration service
 - MongoDB persistence layer
-- shared synchronized session state for multiple participants
+- Shared synchronized session state for multiple participants
 
 **Core capabilities:**
-- real-time collaborative estimation rooms
-- synchronized voting workflows
-- story lifecycle management
-- session summaries and workflow continuity
-- browser-based access for distributed teams
+- Real-time collaborative estimation rooms
+- Synchronized voting workflows
+- Story lifecycle management
+- Session summaries and workflow continuity
+- Browser-based access for distributed teams
 
 ---
 
@@ -51,10 +56,10 @@ StoryPoker is a production-oriented SaaS collaboration system designed to help d
 I currently work on large-scale software platforms and digital infrastructure supporting modern web-based systems and distributed engineering environments.
 
 My broader engineering interests include:
-- collaboration infrastructure for distributed teams
-- real-time shared-state systems
-- workflow-oriented software platforms
-- resilient and scalable production architectures
+- Collaboration infrastructure for distributed teams
+- Real-time shared-state systems
+- Workflow-oriented software platforms
+- Resilient and scalable production architectures
 
 ---
 
@@ -88,7 +93,7 @@ Jest, Cypress, Mocha, Puppeteer
 ## GitHub Focus
 
 This profile highlights engineering work related to:
-- distributed software systems
-- real-time collaboration architecture
-- scalable web platforms
-- modern SaaS application development
+- Distributed software systems
+- Real-time collaboration architecture
+- Scalable web platforms
+- Modern SaaS application development
