@@ -1,29 +1,94 @@
-![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
-<h1 align="left">🙋🏻‍♂️ I'm Valentyn Arkho</h1>
+<h1 align="left">Valentyn Arkho</h1>
+<h3 align="left">Senior Software Engineer | Distributed Systems | Real-Time Collaboration | Digital Infrastructure</h3>
 
-I'm a motivated and proficient Software Engineer, I possess extensive knowledge in both object-oriented and functional languages of programming. Currently l'm working as the Software Development Engineer III in the Expedia Group in Austin, Texas. I passionately strive to transform the online travel industry by offering innovative and impactful tech solutions through the Vrbo platform. This platform connects millions across the globe with exquisite vacation rentals 📈.
+I am a Senior Software Engineer specializing in distributed systems architecture, real-time collaboration platforms, and scalable SaaS infrastructure.
 
-<h3 align="left">Professional Portfolio</h3>
+My work focuses on designing and implementing software systems that improve coordination, reliability, and productivity in modern engineering environments. I have experience building and modernizing high-traffic digital platforms, enterprise-scale web applications, and real-time multi-user systems.
 
-🌐 Website URI - [www.valentynarkho.site](https://valentynarkho.site/).
+I am also the creator of **StoryPoker**, a live SaaS collaboration platform built to support agile estimation workflows for distributed software engineering teams.
 
-<h3 align="left">Current Position: Software Developer Engineer III</h3>
+---
 
-> [!NOTE]
-> On the current project I perform the duties of a **Technical Lead**.
+## Featured Project
 
-<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/69/20/fc/6920fc266ea0a8bfbb02561dfdd18f1c.png">
-<h3 align="left">Additional Information:</h3>
+### StoryPoker — Real-Time Agile Estimation Platform
+**Live platform:** [storypoker.online](https://storypoker.online/)  
+**Portfolio:** [valentynarkho.site](https://valentynarkho.site/)  
 
-- 🔭 Current work is related to the Vrbo ([About](https://www.vrbo.com/about/)). Vrbo operates an online marketplace for vacation rentals. It was originally known as Vacation Rentals by Owner or VRBO. It is headquartered in Austin, Texas, and is owned by Expedia Group.
-- 📍 Live & work in the United States 🇺🇸.
-- 📫 How to reach me out: **valentynarkho@gmail.com**.
+StoryPoker is a production-oriented SaaS collaboration system designed to help distributed software teams conduct synchronized estimation and planning sessions.
 
-<h4 align="left">Connect with me:</h4>
-<p align="left">
-<a href="https://linkedin.com/in/valentyn-arkho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentyn-arkho" height="30" width="40" /></a>
-<a href="https://www.facebook.com/valentyn.arkho/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="valentyn.arkho" height="30" width="40" /></a>
-</p>
+**Architecture highlights:**
+- React + TypeScript frontend
+- GraphQL API and WebSocket-based real-time communication
+- Node.js backend collaboration service
+- MongoDB persistence layer
+- shared synchronized session state for multiple participants
 
-<h4 align="left">Languages and Tools:</h4>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+**Core capabilities:**
+- real-time collaborative estimation rooms
+- synchronized voting workflows
+- story lifecycle management
+- session summaries and workflow continuity
+- browser-based access for distributed teams
+
+---
+
+## Areas of Expertise
+
+- Distributed systems architecture
+- Real-time collaboration platforms
+- Scalable SaaS systems
+- High-traffic digital infrastructure
+- GraphQL and API design
+- Frontend-backend integration
+- Performance optimization
+- Production reliability
+
+---
+
+## Current Focus
+
+I currently work on large-scale software platforms and digital infrastructure supporting modern web-based systems and distributed engineering environments.
+
+My broader engineering interests include:
+- collaboration infrastructure for distributed teams
+- real-time shared-state systems
+- workflow-oriented software platforms
+- resilient and scalable production architectures
+
+---
+
+## Professional Links
+
+- **Portfolio:** [valentynarkho.site](https://valentynarkho.site/)
+- **LinkedIn:** [linkedin.com/in/valentyn-arkho](https://www.linkedin.com/in/valentyn-arkho/)
+- **Email:** [archo.valentyn@gmail.com](mailto:archo.valentyn@gmail.com)
+
+---
+
+## Technologies
+
+**Languages:**  
+JavaScript, TypeScript, Java, Kotlin
+
+**Frontend:**  
+React, Redux, Vite, Webpack, HTML, CSS, SCSS
+
+**Backend / APIs:**  
+Node.js, GraphQL, Express
+
+**Infrastructure / Dev Tools:**  
+MongoDB, PostgreSQL, MySQL, Docker, Nginx, Jenkins, AWS, Git, Postman
+
+**Testing / Quality:**  
+Jest, Cypress, Mocha, Puppeteer
+
+---
+
+## GitHub Focus
+
+This profile highlights engineering work related to:
+- distributed software systems
+- real-time collaboration architecture
+- scalable web platforms
+- modern SaaS application development
